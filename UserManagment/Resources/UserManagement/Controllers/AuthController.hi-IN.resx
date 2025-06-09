@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="InvalidCredentials" xml:space="preserve">
+    <value>अमान्य क्रेडेंशियल्स</value>
+  </data>
+  <data name="InvalidRefreshToken" xml:space="preserve">
+    <value>अमान्य या समाप्त रिफ्रेश टोकन</value>
+  </data>
+</root>

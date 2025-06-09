@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="RoleNotFound" xml:space="preserve">
+    <value>रोल नहीं मिला</value>
+  </data>
+  <data name="RoleAlreadyExists" xml:space="preserve">
+    <value>रोल पहले से मौजूद है</value>
+  </data>
+  <data name="InvalidRoleData" xml:space="preserve">
+    <value>अमान्य रोल डेटा</value>
+  </data>
+</root>

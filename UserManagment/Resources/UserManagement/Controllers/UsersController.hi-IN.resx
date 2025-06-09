@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="UserNotFound" xml:space="preserve">
+    <value>उपयोगकर्ता नहीं मिला</value>
+  </data>
+  <data name="UserAlreadyExists" xml:space="preserve">
+    <value>उपयोगकर्ता पहले से मौजूद है</value>
+  </data>
+  <data name="InvalidUserData" xml:space="preserve">
+    <value>अमान्य उपयोगकर्ता डेटा</value>
+  </data>
+</root>

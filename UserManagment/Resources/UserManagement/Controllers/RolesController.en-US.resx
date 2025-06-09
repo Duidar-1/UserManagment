@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="RoleNotFound" xml:space="preserve">
+    <value>Role not found</value>
+  </data>
+  <data name="RoleAlreadyExists" xml:space="preserve">
+    <value>Role already exists</value>
+  </data>
+  <data name="InvalidRoleData" xml:space="preserve">
+    <value>Invalid role data</value>
+  </data>
+</root>
