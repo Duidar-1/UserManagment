@@ -1,4 +1,4 @@
-# User-Management API
+# UserManagement API
 
 ## Description
 A lightweight ASP.NET Core Web API for user authentication, role, and user management. Features JWT-based security, role-based authorization, and localization for English (en-US) and Hindi (hi-IN). Includes 25 unit tests. Runs on port 3000 for development and 3001 for testing.
@@ -20,7 +20,7 @@ A lightweight ASP.NET Core Web API for user authentication, role, and user manag
 1. Clone the Repository:
    ```bash
    git clone https://github.com/your-username/User-Management.git
-   cd User-Management/User-Management
+   cd UserManagement/UserManagement
    ```
 2. Install Dependencies:
    ```bash
