@@ -73,3 +73,9 @@ A lightweight ASP.NET Core Web API for user authentication, role, and user manag
      ```bash
      dotnet test
      ```
+3.Localization:
+-To receive localized error messages (e.g., InvalidCredentials in en-US or अमान्य क्रेडेंशियल्स in hi-IN), include the Accept-Language header in API requests:
+-For English: Accept-Language:`en-US`
+-For Hindi: Accept-Language: `hi-IN`
+
+Example in Postman: Send `POST https://localhost:3000/api/Auth/login` with header `Accept-Language: hi-IN `and body `{ "username": "invalid", "password": "wrong" }` to see Hindi error messages.
