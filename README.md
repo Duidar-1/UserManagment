@@ -19,7 +19,7 @@ A lightweight ASP.NET Core Web API for user authentication, role, and user manag
 ## Setup
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/your-username/User-Management.git
+   git clone https://github.com/your-username/UserManagement.git
    cd UserManagement/UserManagement
    ```
 2. Install Dependencies:
